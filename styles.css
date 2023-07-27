@@ -1,0 +1,57 @@
+img {
+  display: block;
+  width: 380px;
+  margin: auto;
+  border: 3px solid #121212;
+}
+
+h1 {
+  text-align: center;
+}
+
+html {
+  color: #121212;
+ 
+  margin: 10px auto;
+  width:400px;
+  display: block;
+  word-wrap: break-word ;
+  padding: 10px 30px 10px 30px;
+  
+}
+
+.note {
+  text-align: justify;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.tx-email {
+  margin: auto;
+  display: block;
+  width: 200px;
+  border: 3px solid 121212;
+  padding: 5px;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+  color: #7f7676;
+}
+
+.btn-join {
+  margin: 10px auto;
+  display: block;
+  width: 217px;
+  border: 3px solid #121212;
+  padding: 5px 20px 5px 20px;
+  text-align: center;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  background-color: black;
+}
+
+.term{
+  text-align: center;
+}
